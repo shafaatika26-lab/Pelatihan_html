@@ -12,7 +12,7 @@ body{
   box-shadow:0 4px 8px rgba(0,0,0,0.1);/*efek bayangan*/
   text-align:center;/*all text ke tengah*/
 }
-.kartu-foto profil jpeg{
+.kartu-foto profil img{
   width:150px;
   height:150px;
   border-radius:50%;/*gambar kotak sempurna menjadi lingkaran*/
